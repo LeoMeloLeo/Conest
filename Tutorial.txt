@@ -1,0 +1,13 @@
+send - envia; mensagem, obejto e arquivo
+on - recebe algo do main, mensagem, obejeto 
+invoke - executa funcionalidade do electron
+
+
+cpnjFornecedor: {
+        type: String,
+        unique: true,
+        index: true,
+    },
+
+---> campo unico no mongodb
+
