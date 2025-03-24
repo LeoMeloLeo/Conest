@@ -1,0 +1,8 @@
+send - envia; mensagem, obejto e arquivo
+on - recebe algo do main, mensagem, obejeto 
+invoke - executa funcionalidade do electron
+
+<!--Bloqueio do formulario inputs-->
+            <div class="bloqueio">
+</div> <!--FIM DO BLOQUEIO-->
+
